@@ -1,0 +1,12 @@
+{
+    "lang": "en",
+    "excludeFiles": [
+        "node_modules"
+    ],
+    "fileExtensions": [
+        ".md"
+    ],
+    "ignoreCapitalization": true,
+    "ignoreUrls": true,
+    "dictionary": []
+}
