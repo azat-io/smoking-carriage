@@ -9,12 +9,12 @@
         "react/jsx-curly-spacing": [2, {"when": "always", "spacing": {
             "objectLiterals": "never"
         }}],
+        "indent": ["error", 4, { "SwitchCase": 1 }],
         "react/jsx-indent-props": ["error", 4],
         "react/jsx-indent": ["error", 4],
         "no-unused-expressions": 0,
         "handle-callback-err": 0,
         "max-len": ["error", 80],
-        "indent": ["error", 4],
         "no-useless-escape": 0,
         "no-var": "error"
     }
